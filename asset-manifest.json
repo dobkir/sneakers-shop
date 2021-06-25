@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sneakers-shop/static/css/main.07b3b064.chunk.css",
+    "main.js": "/sneakers-shop/static/js/main.23f4986b.chunk.js",
+    "main.js.map": "/sneakers-shop/static/js/main.23f4986b.chunk.js.map",
+    "runtime-main.js": "/sneakers-shop/static/js/runtime-main.8d5f07a1.js",
+    "runtime-main.js.map": "/sneakers-shop/static/js/runtime-main.8d5f07a1.js.map",
+    "static/css/2.caa02cb8.chunk.css": "/sneakers-shop/static/css/2.caa02cb8.chunk.css",
+    "static/js/2.102b4d65.chunk.js": "/sneakers-shop/static/js/2.102b4d65.chunk.js",
+    "static/js/2.102b4d65.chunk.js.map": "/sneakers-shop/static/js/2.102b4d65.chunk.js.map",
+    "static/js/3.5d2d762c.chunk.js": "/sneakers-shop/static/js/3.5d2d762c.chunk.js",
+    "static/js/3.5d2d762c.chunk.js.map": "/sneakers-shop/static/js/3.5d2d762c.chunk.js.map",
+    "index.html": "/sneakers-shop/index.html",
+    "static/css/2.caa02cb8.chunk.css.map": "/sneakers-shop/static/css/2.caa02cb8.chunk.css.map",
+    "static/css/main.07b3b064.chunk.css.map": "/sneakers-shop/static/css/main.07b3b064.chunk.css.map",
+    "static/js/2.102b4d65.chunk.js.LICENSE.txt": "/sneakers-shop/static/js/2.102b4d65.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d5f07a1.js",
+    "static/css/2.caa02cb8.chunk.css",
+    "static/js/2.102b4d65.chunk.js",
+    "static/css/main.07b3b064.chunk.css",
+    "static/js/main.23f4986b.chunk.js"
+  ]
+}
